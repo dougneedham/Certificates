@@ -19,6 +19,7 @@ Over the years, I have earned several certifications.
 * Financial Modeling from Wall Street Prep
 
 # PodCasts 
+I have also appeared on a few different podcasts. Mostly, I speak about my books or advanced topics related to Data Modeling. 
 
 * [Joe Reis Podcast](https://www.youtube.com/watch?v=clgPpPdLMJM)
 
