@@ -17,6 +17,7 @@ Over the years, I have earned several certifications.
 * Data Vault 
 * Cloudera. 
 * Financial Modeling from Wall Street Prep
+* Leadership and Decision Making from MasterClass
 
 # PodCasts 
 I have also appeared on a few different podcasts. Mostly, I speak about my books or advanced topics related to Data Modeling. 
